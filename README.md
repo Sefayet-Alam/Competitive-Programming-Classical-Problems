@@ -17,5 +17,5 @@ cses: editorial: https://codeforces.com/blog/entry/70018 </br>
 https://codeforces.com/edu/course/2 </br>
 
 #### Credits:
-1. Errichto's youtube channel
-2.https://github.com/forestLoop/Learning-ITMO-Academy-Pilot-Course/tree/main/binary-search
+1. Errichto's youtube channel </br>
+2.https://github.com/forestLoop/Learning-ITMO-Academy-Pilot-Course/tree/main/binary-search  </br>
